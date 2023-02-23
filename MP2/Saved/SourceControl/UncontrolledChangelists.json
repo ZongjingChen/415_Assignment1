@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/MP2_Map.umap",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/UI/RestartWidget.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemy/Spikes.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemy/Trap.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemy/Spike.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemy/EnemyCharacter.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemy/DeathZone.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemy/Projectile.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Assets/Architecture/Walls/SM_Kit_Wall_Straight.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemy/Wall.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/UI/WinWidget.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Win_Pickup_BP.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemy/EnemyPursuer.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Enemy/EnemyRoamer.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/UI/ScoreWidget.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Present_Pickup_BP.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Gift_Pickup_BP.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/HealthPack_pickup_BP.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Environment/Wall.uasset",
+				"C:/Users/23615/OneDrive/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Environment/Cloud.uasset"
+			]
+		}
+	]
+}
